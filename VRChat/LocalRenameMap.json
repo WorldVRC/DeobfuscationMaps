@@ -1,6 +1,6 @@
 [
   {
-    "AssemblyName": "UserEventCarousel",
+    "AssemblyName": "VRC.UI.UserEventCarousel",
     "AssemblyFile": null,
     "Type": null,
     "WithMethods": [],
@@ -15,7 +15,7 @@
     "WithOutProperties": []
   },
   {
-    "AssemblyName": "ActiveCarousel",
+    "AssemblyName": "VRC.UI.UserEventPrefab",
     "AssemblyFile": null,
     "Type": null,
     "WithMethods": [],
