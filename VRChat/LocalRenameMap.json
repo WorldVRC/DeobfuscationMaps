@@ -1,7 +1,7 @@
 [
   {
     "AssemblyName": "UserEventCarousel",
-    "AssemblyFile": "Assembly-CSharp",
+    "AssemblyFile": null,
     "Type": null,
     "WithMethods": [],
     "WithOutMethods": [],
@@ -16,7 +16,7 @@
   },
   {
     "AssemblyName": "ActiveCarousel",
-    "AssemblyFile": "Assembly-CSharp",
+    "AssemblyFile": null,
     "Type": null,
     "WithMethods": [],
     "WithOutMethods": [],
