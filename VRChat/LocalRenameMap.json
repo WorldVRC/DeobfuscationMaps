@@ -1,0 +1,31 @@
+[
+  {
+    "AssemblyName": "UserEventCarousel",
+    "AssemblyFile": "Assembly-CSharp.dll",
+    "Type": null,
+    "WithMethods": [],
+    "WithOutMethods": [],
+    "Properties": [],
+    "WithFields": [
+      "_gestureOnIcon",
+      "hudMicCanvasGroup"
+    ],
+    "WithOutFields": [],
+    "WithProperties": [],
+    "WithOutProperties": []
+  },
+  {
+    "AssemblyName": "ActiveCarousel",
+    "AssemblyFile": "Assembly-CSharp.dll",
+    "Type": null,
+    "WithMethods": [],
+    "WithOutMethods": [],
+    "Properties": [],
+    "WithFields": [
+      "userEventPrefab"
+    ],
+    "WithOutFields": [],
+    "WithProperties": [],
+    "WithOutProperties": []
+  }
+]
