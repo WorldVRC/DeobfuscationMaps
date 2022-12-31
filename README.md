@@ -1,6 +1,7 @@
 # Deobfuscation Maps
 
 ### Info
+THESE ARE FOR EDUCATION PURPOSES ONLY, THIS IS JUST AN EXAMPLE OF THE MAP, AND LOCAL MAP USEAGE
 A repository for deobfuscation maps for games that contain obfuscated assemblies.\
 These maps are able to be used in Il2CppAssemblyUnhollower and Il2CppInterop using the appropriate commands.
 
